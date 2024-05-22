@@ -4,7 +4,7 @@ Meu nome é Nathan Nunes
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem javaScript
-- ultilizo esse espaco para minha organizacao e compartilhamento dos meus projetos criados
+- ultilizo esse espaco para minha organizacao e compartilhamento dos meus projetos criado
 
  ### Entre em contato comigo
   nathannunes517@gmail.com
